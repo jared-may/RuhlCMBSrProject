@@ -1,2 +1,2 @@
 # RuhlCMBSrProject
-Collection if data/code/etc for senior project
+Collection of data/code/etc for senior project
